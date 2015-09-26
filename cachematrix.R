@@ -1,4 +1,3 @@
-## https://github.com/hari271191/ProgrammingAssignment2
 ## R programming Assignment 2: Lexical Scoping
 
 ## The makeCacheMatrix function creates a special "matrix", containing 
